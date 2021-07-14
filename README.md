@@ -1,1 +1,1 @@
-# dice-challenge
+# dice-challenge:two player game
